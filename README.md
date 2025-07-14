@@ -1,4 +1,3 @@
-# kali-vmware-network-audit
 # Kali VMware Network Audit Script
 
 A Bash script to collect network, virtualization, and DHCP history details from Kali Linux running inside VMware.
